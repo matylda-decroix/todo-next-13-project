@@ -1,6 +1,6 @@
 ## Todo App
 
-This is a project for me to learn Next 13, TailWind and Prisma!
+This is a project for me to learn Next 13, Tailwind and Prisma!
 
 ##
 
